@@ -1,0 +1,6 @@
+#alpha=input("enter a alpha")
+#res=ord(alpha)
+#print(res)
+num=int(input("enter a num"))
+res=chr(num)
+print(res)
